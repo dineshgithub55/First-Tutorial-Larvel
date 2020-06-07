@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+- name: Setup Atom
+  uses: UziTech/action-setup-atom@v1.1.8
